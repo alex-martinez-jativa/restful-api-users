@@ -2,6 +2,8 @@
 
 <p>Restful API to menage users</p>
 
+## Endpoints
+
 <table>
     <tr>
         <th>HTTP methods</th>
